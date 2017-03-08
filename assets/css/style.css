@@ -1,0 +1,48 @@
+
+body {
+  text-align: center;
+  background: url("../images/back.jpg") repeat center center fixed;
+  color: #f3c967;
+  font-family: 'Cinzel Decorative', cursive;
+   letter-spacing: 2px;
+
+
+
+}
+
+h1{
+
+    background: #1b1605;
+    color: #CFB53B;
+
+   font-size: 85px;
+    width: 861px;
+    padding: 20px;
+    border-radius: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.choise{
+  font-size: 20px;
+  font-weight: bold;
+  
+
+}
+h2{
+
+background: #e7d8ad;
+    color: #302f2b;
+  padding: 10px;
+   border-radius: 100px;
+
+}
+
+#done{
+display: block;
+  clear: both;
+  margin-right: auto;
+  margin-left: auto; 
+margin-top: 30px;
+margin-bottom: 30px;
+}
+
